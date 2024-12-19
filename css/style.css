@@ -1,0 +1,32 @@
+.header, .hero, .body, .bar, .footer {
+ background-color: grey;
+ margin-bottom:100 px;
+
+}
+
+	
+.box{
+     margin: 10px 0; 
+	min-height: 150px;
+	background-color: chocolate;
+     font-size: 30px;
+     color: white;
+
+}
+
+
+.skyblue{background-color: skyblue;
+
+}
+
+.brown{
+	background-color: brown;
+
+}
+.xix{
+   background-color: crimson;
+}
+
+.fot{
+	background-color: teal;
+}
